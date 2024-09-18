@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Apollo Graphql</string>
+    <string name="api_default_error">Something wrong happened</string>
+    <string name="http_no_internet">No internet connection</string>
+    <string name="not_found">Not found</string>
+    <string name="cd">Content Description</string>
+    <string name="dismiss">Dismiss</string>
+
+</resources>
